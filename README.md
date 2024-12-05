@@ -28,7 +28,7 @@ Follow these steps to get your project up and running:
 
 ## 📅 Future Improvements
 
-This single page can later be used in a full recipe collection page as a component which I have in mind 💡
+There are a few flaws in the webpage's responsiveness especially in smaller devices some tweaks to the code would fix the issue 💡
 Add you own idea as well 🌱
 
 ## 📫 Contact
